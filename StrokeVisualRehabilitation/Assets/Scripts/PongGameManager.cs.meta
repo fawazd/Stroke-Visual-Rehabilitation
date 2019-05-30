@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: cf7418ea5c1ea96489ff93d9a12ef666
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ball: {fileID: 6733782911990822616, guid: bf6845857c59eb94788bb1a164ef6862, type: 3}
+  - paddle: {fileID: 6089923236053243670, guid: 9645ce9b68c7c3045939bae921cc2e00,
+      type: 3}
+  - playerPaddle: {instanceID: 0}
+  - computerPaddle: {instanceID: 0}
+  - compText: {fileID: 6202932192284048689, guid: 3846cdcbb3c59a449b8068add6a9801a,
+      type: 3}
+  - playerText: {fileID: 49782541934642919, guid: 88bc4050624ec7e4f99b222285d2f08e,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
