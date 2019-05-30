@@ -28,7 +28,7 @@ https://gaming.tobii.com/products/
 
 Instructions can be found here:
 ```
-svr-setup.github.io
+https://svr-setup.github.io
 ```
 
 ## Built With
