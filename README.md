@@ -45,7 +45,7 @@ svr-setup.github.io
 
 * **Aidyn Jones** - *Initial work* 
 * **Connor Cain** - *Initial work* 
-* **Fawaz Khan Dinnunhan** - *Initial work* 
+* **Fawaz Dinnunhan** - *Initial work* 
 
 ## Acknowledgments
 
