@@ -49,4 +49,4 @@ svr-setup.github.io
 
 ## Acknowledgments
 
-* David Rozado, project manager
+* **David Rozado** - *Project manager* 
