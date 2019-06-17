@@ -14,7 +14,7 @@ A recreation of the classic arcade game breakout. The paddle moves based on wher
 A 3d reimagination of the classic arcade game pong. The paddle moves based on where the player is looking, the same idea applied as above.
 
 ### Memory
-A recreation of the card game memory. A card can be flipped if the player maintains their gaze on the card for 2 seconds. The goal is to find matching cards by keeping in mind the cards you have already seen.
+A recreation of the card game memory. A card can be flipped if the player maintains their gaze on the card for 1 second. The goal is to find matching cards by keeping in mind the cards you have already seen.
 
 ## Prerequisites
 
